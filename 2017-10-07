@@ -1,0 +1,9 @@
+The last update time:2017-10-07-01:56:18
+1.rxvt:the shot key for copy and paste--shift+insert
+2.touchpad:the configuration file
+3.rxvt:the color and display configuration file--~/.Xresources--xrdb .Xresources
+4.acpi:the battary manager
+5.xclip:copy something to clipboard
+6.openssh:ssh package
+7.cat:append something you want in a file--cat>>file<<EOF
+8.echo:append one line you want in a file--echo "something you want" >> file
