@@ -7,3 +7,5 @@ The last update time:2017-10-07-01:56:18
 6.openssh:ssh package
 7.cat:append something you want in a file--cat>>file<<EOF
 8.echo:append one line you want in a file--echo "something you want" >> file
+9.vim:jump directions--tw,fw etc
+10.eog:open a picture from cmd
