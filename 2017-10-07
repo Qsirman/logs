@@ -9,3 +9,4 @@ The last update time:2017-10-07-01:56:18
 8.echo:append one line you want in a file--echo "something you want" >> file
 9.vim:jump directions--tw,fw etc
 10.eog:open a picture from cmd
+11.bash_profile/zprofile:auto-start some service or applications
